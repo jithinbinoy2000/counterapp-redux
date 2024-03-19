@@ -6,4 +6,4 @@ Demo Link : https://counterapp-redux.vercel.app/
   <li>store</li>
   <li>Action</li>
 </ul>
-<img src="https://counterapp-redux.vercel.app/">
+<template src="https://counterapp-redux.vercel.app/">
