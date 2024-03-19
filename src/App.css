@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: black;
+  font-style:Regular;
+  
+  
+}
+.heading{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  color: #ffff;
+}
+.heading{
+  animation: example;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+  animation-timing-function: ease-in-out
+}
+@keyframes example {
+  0%   {color:rgb(255, 0, 195);}
+  25%  {color:coral;}
+  50%  {color: cornflowerblue;}
+  100% {color: aqua;}
+}
+.result{
+  font-weight: 900;
+  font-size: 30px;
+}
