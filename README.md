@@ -1,6 +1,9 @@
 #React #Redux-ToolKit
+<hr>
+This application is for learn the basics of redux & redux-toolkit in react<br>
+
 <br>
-Demo Link : https://counterapp-redux.vercel.app/
+**Demo Link : https://counterapp-redux.vercel.app/
 <ul>
   <li>slice</li>
   <li>store</li>
